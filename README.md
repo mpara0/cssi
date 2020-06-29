@@ -18,6 +18,11 @@ Here is a select few of some of the projects I was able to build during CSSI!
 * [Shopping List](https://repl.it/@mpara0/Shopping-List-JS#index.html)
 
 ## Final Project - #IAmRemarkable
+Developed this web app during project week at Google CSSI with a group of 3 other individuals. The site is inspired by Google's #IAmRemarkable initiative which aims employers to do self promotion.
 
+Tools Used: Google App Engine, AJAX + Datastore, Healthruwords API, HTML/CSS, and Python
+
+[Live Site](http://i-am-remarkable-because.appspot.com/)
+[Repository](https://github.com/mpara0/RemarkableBecause)
 
 
