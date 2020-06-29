@@ -22,7 +22,6 @@ Developed this web app during project week at Google CSSI with a group of 3 othe
 
 Tools Used: Google App Engine, AJAX + Datastore, Healthruwords API, HTML/CSS, and Python
 
-[Live Site](http://i-am-remarkable-because.appspot.com/)
-[Repository](https://github.com/mpara0/RemarkableBecause)
+[Live Site](http://i-am-remarkable-because.appspot.com/) | [Repository](https://github.com/mpara0/RemarkableBecause)
 
 
